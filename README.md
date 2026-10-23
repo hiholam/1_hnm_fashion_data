@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/sohyunjun0401/h-and-m-personalized-fashion-data
 | hm_customer | Customer attributes | customer_id |  1048575 |
 | hm_articles | Product attributes  | article id |  105542 |
 
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/entities.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/entities.png)
 
 The SQL queries that were used for data validation and analysis could be found [here]( https://github.com/hiholam/1_hnm_fashion_data/blob/main/1_hm_insights.sql)
 
@@ -38,25 +38,25 @@ The following sections explore the insights and actionable recommendations in de
 # Insights Deep Dive
 
 1. To establish a baseline for 2019, we analysed total revenue and total units sold.
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/charts/1.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/1.png)
 **Takeaway**: Summer revenue is driven by high sales volumes of lower-priced items, while the autumn rebound appears to be supported by higher-priced products.
 
 2. To better understand customer purchasing behaviour behind the overall sales trends, we analysed Average Order Value (AOV), which measures the average spending per order, and purchase frequency, which measures the average number of orders per active customer.
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/charts/2.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/2.png)
 **Takeaway**: Again, summer sales were associated with more frequent purchases but lower spending per transaction, while autumn saw higher spending per transaction alongside less frequent purchases.
 
 3. Customer distribution across age groups and newsletter subscription status are analyzed to identify the key customer segments and their contributions to revenue.
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/charts/3.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/3.png)
 **Takeaway**: Millennials and Gen X represent the largest customer segments, while Gen Z and customers aged 56+ show stronger newsletter engagement. This suggests an opportunity to improve newsletter subscriptions among Millennials, the largest customer group.
 
 4. To assess the relationship between newsletter subscriptions and customer spending behaviour, we analyzed Average Revenue Per User (ARPU), which measures average revenue per customer, and Average Order Value (AOV), which measures average spending per transaction, between subscribers and non-subscribers.
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/charts/4.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/4.png)
 **Takeaway**: Despite subscribers' lower AOV, they have higher ARPU in every age group, suggesting that their higher purchasing frequency offsets their lower average transaction value.
 
 5. To identify the core product categories, revenue drivers, and age-specific items, we ranked the product categories by units sold and total revenue across all four age groups.
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/charts/5.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/5.png)
 We also used heatmap to examine the seasonal trends of the top 25 selling categories.
-![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/charts/6.png)
+![alt text](https://github.com/hiholam/1_hnm_fashion_data/blob/main/img/6.png)
 **Takeaway**: Trousers, dresses, and sweaters are core product categories that drive sales across age groups, while differences in category rankings reveal distinct age group preferences. Seasonal demand patterns further highlight the importance of aligning inventory and marketing with product demand: prioritise warm-weather items ahead of summer, increase cold-weather inventory from September, and maintain consistent stock levels for the Big 3.
 
 # Recommendations
