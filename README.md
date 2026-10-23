@@ -50,3 +50,15 @@ We also used heatmap to examine the seasonal trends of the top 25 selling catego
 Trousers, dresses, and sweaters are core product categories that drive sales across age groups, while differences in category rankings reveal distinct age group preferences. Seasonal demand patterns further highlight the importance of aligning inventory and marketing with product demand: prioritise warm-weather items ahead of summer, increase cold-weather inventory from September, and maintain consistent stock levels for the Big 3.
 
 # Recommendations
+### Marketing Team
+1.	**Seasonal Campaign Planning**: Launch campaigns 4–6 weeks before expected demand peaks. Promote premium limited warm-weather items in April, followed by sweaters and outerwear in August, to attract early-season shoppers willing to pay full price for new-season items.
+2.	**Summer Volume Promotion**: Use multi-buy offers (e.g., Buy 2, Get 1 Free) on volume drivers to encourage larger purchases and increase sales volume during peak summer months.
+3.	**Autumn/Winter Revenue Drivers**: Focus campaigns on high-revenue categories, such as jackets and sweaters, as demand for cold-weather products increases.
+4.	**Checkout Add-Ons**: Promote low-priced, high-volume items, such as vest tops and T-shirts, near physical checkout counters and at the online checkout stage to encourage impulse purchases.
+5.	**Subscriber Spending Incentives**: Offer newsletter subscribers incentives, such as free shipping on orders over $10, to encourage higher spending per transaction.
+6.	**Repeat Engagement**: Introduce a loyalty points program to encourage repeat purchases and strengthen customer engagement among newsletter subscribers.
+7.	**Millennial Subscriber Acquisition**: Offer first-time subscriber incentives, such as a 10% discount on the next purchase, to increase newsletter subscriptions among Millennials.
+8.	**Gen Z Targeted Marketing**: Deliver tailored newsletter content featuring trend updates, affordable products, and bundle promotions to encourage purchases among price-conscious Gen Z customers.
+### Inventory Team
+1.	**Core Category Availability**: Maintain sufficient year-round stock of trousers, dresses, and sweaters across online and physical stores, as these categories consistently rank among the top performers in both sales volume and revenue.
+2.	**Dynamic Seasonal Inventory**: Adjust inventory levels based on observed demand patterns. Increase stock of warm-weather items, such as shorts and swimwear, ahead of summer, and expand stock of cold-weather items, such as sweaters and jackets, ahead of autumn and winter.
